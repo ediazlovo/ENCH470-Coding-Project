@@ -1,0 +1,84 @@
+ID,Protein Name,Mutation,Chain,PDB,Method,Measure,DDG,Mutation Type,RSA,Residue Depth,CA Depth,Reference
+6,Cellular tumor antigen p53,C242S,A,1TUP,Unavailable,Unavailable,-3.07,Single,0.12,2.64,2,PMID: 1203434
+7,Cellular tumor antigen p53,F134L,A,1TUP,Unavailable,Unavailable,-4.78,Single,0,6.55,7.94,PMID: 1203434
+8,Cellular tumor antigen p53,F270C,A,1TUP,Unavailable,Unavailable,-4.54,Single,0.01,5.85,4.68,PMID: 1203434
+9,Cellular tumor antigen p53,I195T,A,1TUP,Unavailable,Unavailable,-4.12,Single,0.06,8.08,7.35,PMID: 1203434
+10,Cellular tumor antigen p53,I232T,A,1TUP,Unavailable,Unavailable,-3.19,Single,0.08,4.81,3.9,PMID: 1203434
+11,Cellular tumor antigen p53,I255F,A,1TUP,Unavailable,Unavailable,-3.29,Single,0,7.07,7.27,PMID: 1203434
+12,Cellular tumor antigen p53,L145Q,A,1TUP,Unavailable,Unavailable,-2.98,Single,0.03,6.44,6.42,PMID: 1203434
+13,Cellular tumor antigen p53,M237I,A,1TUP,Unavailable,Unavailable,-3.18,Single,0.04,4.04,4.88,PMID: 1203434
+14,Cellular tumor antigen p53,P151S,A,1TUP,Unavailable,Unavailable,-4.49,Single,0.1,2.69,3.17,PMID: 1203434
+15,Cellular tumor antigen p53,R175A,A,1TUP,Unavailable,Unavailable,-0.73,Single,0,4.22,3.17,PMID: 1203434
+16,Cellular tumor antigen p53,R248Q,A,1TUP,Unavailable,Unavailable,-1.87,Single,0.68,1.92,2,PMID: 1203434
+17,Cellular tumor antigen p53,V157F,A,1TUP,Unavailable,Unavailable,-3.88,Single,0,7.08,7.02,PMID: 1203434
+3694,Cellular tumor antigen p53,R175H,A,1TUP,Urea,Fluorescence,-3.01,Single,0,4.22,3.17,PMID: 9405613
+3695,Cellular tumor antigen p53,C242S,A,1TUP,Urea,Fluorescence,-3.5,Single,0.12,2.64,2,PMID: 9405613
+3696,Cellular tumor antigen p53,R248Q,A,1TUP,Urea,Fluorescence,-3.07,Single,0.68,1.92,2,PMID: 9405613
+3697,Cellular tumor antigen p53,R249S,A,1TUP,Urea,Fluorescence,-1.87,Single,0.1,2.31,2,PMID: 9405613
+3698,Cellular tumor antigen p53,R273H,A,1TUP,Urea,Fluorescence,-2,Single,0.25,3.22,4.1,PMID: 9405613
+4182,Cellular tumor antigen p53,N268D,A,1TUP,Urea,"DSC, Fluorescence",0.92,Single,0.11,2.92,2.88,PMID: 9843948
+4184,Cellular tumor antigen p53,A129D,A,1TUP,Urea,"DSC, Fluorescence",-0.7,Single,0.81,1.78,2,PMID: 9843948
+4185,Cellular tumor antigen p53,A129E,A,1TUP,Urea,"DSC, Fluorescence",-0.38,Single,0.81,1.78,2,PMID: 9843948
+4186,Cellular tumor antigen p53,A129S,A,1TUP,Urea,"DSC, Fluorescence",-0.19,Single,0.81,1.78,2,PMID: 9843948
+4187,Cellular tumor antigen p53,C182S,A,1TUP,Urea,"DSC, Fluorescence",0.16,Single,0.3,1.85,2,PMID: 9843948
+4188,Cellular tumor antigen p53,D148E,A,1TUP,Urea,"DSC, Fluorescence",-0.43,Single,0.74,1.84,2,PMID: 9843948
+4189,Cellular tumor antigen p53,D148S,A,1TUP,Urea,"DSC, Fluorescence",0.22,Single,0.74,1.84,2,PMID: 9843948
+4190,Cellular tumor antigen p53,D228E,A,1TUP,Urea,"DSC, Fluorescence",0.05,Single,0.62,1.71,2,PMID: 9843948
+4191,Cellular tumor antigen p53,L201P,A,1TUP,Urea,"DSC, Fluorescence",0.35,Single,0.93,1.9,2.36,PMID: 9843948
+4192,Cellular tumor antigen p53,L206S,A,1TUP,Urea,"DSC, Fluorescence",-0.1,Single,0.35,2.15,2,PMID: 9843948
+4193,Cellular tumor antigen p53,M133L,A,1TUP,Urea,"DSC, Fluorescence",0.3,Single,0.01,7.65,6.92,PMID: 9843948
+4194,Cellular tumor antigen p53,N239Y,A,1TUP,Urea,"DSC, Fluorescence",1.49,Single,0.24,2.69,3.39,PMID: 9843948
+4195,Cellular tumor antigen p53,Q104H,A,1TUP,Urea,"DSC, Fluorescence",0.24,Single,0.47,2.06,2.34,PMID: 9843948
+4196,Cellular tumor antigen p53,Q104P,A,1TUP,Urea,"DSC, Fluorescence",0.11,Single,0.47,2.06,2.34,PMID: 9843948
+4197,Cellular tumor antigen p53,Q165K,A,1TUP,Urea,"DSC, Fluorescence",-1.27,Single,0.33,2.11,2,PMID: 9843948
+4198,Cellular tumor antigen p53,Q167E,A,1TUP,Urea,"DSC, Fluorescence",-0.43,Single,0.49,1.83,2,PMID: 9843948
+4199,Cellular tumor antigen p53,R174K,A,1TUP,Urea,"DSC, Fluorescence",-0.22,Single,0.21,2.35,3.35,PMID: 9843948
+4200,Cellular tumor antigen p53,S260P,A,1TUP,Urea,"DSC, Fluorescence",-0.32,Single,0.6,2.15,2.5,PMID: 9843948
+4201,Cellular tumor antigen p53,T150P,A,1TUP,Urea,"DSC, Fluorescence",-0.08,Single,0.68,1.91,2.36,PMID: 9843948
+4202,Cellular tumor antigen p53,V203A,A,1TUP,Urea,"DSC, Fluorescence",0.49,Single,0.13,3.21,2.98,PMID: 9843948
+4203,Cellular tumor antigen p53,Y236F,A,1TUP,Urea,"DSC, Fluorescence",0.27,Single,0,7.29,5.33,PMID: 9843948
+4298,Cellular tumor antigen p53,E336A,A,1SAK,GdnHCl,CD,3,Single,0.88,1.53,2,PMID: 10048932
+4299,Cellular tumor antigen p53,K351A,A,1SAK,GdnHCl,CD,2.5,Single,0.24,1.54,2,PMID: 10048932
+4300,Cellular tumor antigen p53,E346A,A,1SAK,GdnHCl,CD,-0.4,Single,0.52,1.66,2,PMID: 10048932
+4301,Cellular tumor antigen p53,E343A,A,1SAK,GdnHCl,CD,-1.1,Single,0.42,1.64,2,PMID: 10048932
+4302,Cellular tumor antigen p53,Q331A,A,1SAK,GdnHCl,CD,-1.4,Single,0.59,1.51,2,PMID: 10048932
+4303,Cellular tumor antigen p53,R342A,A,1SAK,GdnHCl,CD,-1.4,Single,0.45,1.61,2,PMID: 10048932
+4304,Cellular tumor antigen p53,E326A,A,1SAK,GdnHCl,CD,-1.6,Single,0.7,1.53,2,PMID: 10048932
+4305,Cellular tumor antigen p53,E339A,A,1SAK,GdnHCl,CD,-1.8,Single,0.49,1.86,2.58,PMID: 10048932
+4306,Cellular tumor antigen p53,R335A,A,1SAK,GdnHCl,CD,-2.1,Single,0.65,1.54,2,PMID: 10048932
+4307,Cellular tumor antigen p53,L350A,A,1SAK,GdnHCl,CD,-2.1,Single,0.26,1.58,2,PMID: 10048932
+4308,Cellular tumor antigen p53,D352A,A,1SAK,GdnHCl,CD,-2.2,Single,0.42,1.66,2,PMID: 10048932
+4309,Cellular tumor antigen p53,A347G,A,1SAK,GdnHCl,CD,-2.7,Single,0,1.55,2,PMID: 10048932
+4310,Cellular tumor antigen p53,F341L,A,1SAK,GdnHCl,CD,-3.1,Single,0.01,2,2.37,PMID: 10048932
+4311,Cellular tumor antigen p53,T329A,A,1SAK,GdnHCl,CD,-3.6,Single,0.73,1.5,2,PMID: 10048932
+4312,Cellular tumor antigen p53,N345A,A,1SAK,GdnHCl,CD,-3.7,Single,0.04,1.69,2,PMID: 10048932
+4313,Cellular tumor antigen p53,E349A,A,1SAK,GdnHCl,CD,-3.8,Single,0.47,1.6,2,PMID: 10048932
+4314,Cellular tumor antigen p53,R333A,A,1SAK,GdnHCl,CD,-3.9,Single,0.4,1.51,2,PMID: 10048932
+4315,Cellular tumor antigen p53,I332V,A,1SAK,GdnHCl,CD,-4.8,Single,0.01,1.71,2.17,PMID: 10048932
+4316,Cellular tumor antigen p53,M340A,A,1SAK,GdnHCl,CD,-6.4,Single,0.19,1.72,2,PMID: 10048932
+4317,Cellular tumor antigen p53,F328A,A,1SAK,GdnHCl,CD,-7.2,Single,0.27,1.54,2,PMID: 10048932
+4318,Cellular tumor antigen p53,F338A,A,1SAK,GdnHCl,CD,-7.2,Single,0.18,2.03,3.29,PMID: 10048932
+4319,Cellular tumor antigen p53,R337A,A,1SAK,GdnHCl,CD,-9.3,Single,0.18,1.73,2,PMID: 10048932
+4382,Cellular tumor antigen p53,M340I,A,1SAK,GdnHCl,CD,0.7,Single,0.19,1.72,2,PMID: 10097082
+4384,Cellular tumor antigen p53,L344I,A,1SAK,GdnHCl,CD,-1.2,Single,0.02,1.74,2.13,PMID: 10097082
+4388,Cellular tumor antigen p53,F341L,A,1SAK,GdnHCl,CD,-3.3,Single,0.01,2,2.37,PMID: 10097082
+4389,Cellular tumor antigen p53,F328L,A,1SAK,GdnHCl,CD,-3.5,Single,0.27,1.54,2,PMID: 10097082
+4390,Cellular tumor antigen p53,I332V,A,1SAK,GdnHCl,CD,-5,Single,0.01,1.71,2.17,PMID: 10097082
+4391,Cellular tumor antigen p53,L330F,A,1SAK,GdnHCl,CD,-5.2,Single,0.13,1.5,2,PMID: 10097082
+4393,Cellular tumor antigen p53,L344F,A,1SAK,GdnHCl,CD,-6.1,Single,0.02,1.74,2.13,PMID: 10097082
+4394,Cellular tumor antigen p53,F341I,A,1SAK,GdnHCl,CD,-6.9,Single,0.01,2,2.37,PMID: 10097082
+4992,Cellular tumor antigen p53,N239Y,A,1TUP,Urea,NMR,1.37,Single,0.24,2.69,3.39,PMID: 10654936
+4994,Cellular tumor antigen p53,G245S,A,1TUP,Urea,NMR,-1.22,Single,0.02,1.94,2,PMID: 10654936
+4995,Cellular tumor antigen p53,R249S,A,1TUP,Urea,NMR,-1.69,Single,0.1,2.31,2,PMID: 10654936
+5001,Cellular tumor antigen p53,V143A,A,1TUP,Urea,NMR,-3.34,Single,0,6.5,6.2,PMID: 10654936
+5002,Cellular tumor antigen p53,H168R,A,1TUP,Urea,NMR,-2.75,Single,0.24,3.1,3.9,PMID: 10654936
+5003,Cellular tumor antigen p53,N268D,A,1TUP,Urea,NMR,1.21,Single,0.11,2.92,2.88,PMID: 10654936
+5004,Cellular tumor antigen p53,T123A,A,1TUP,Urea,NMR,-0.13,Single,0.37,2.76,2.77,PMID: 10654936
+5076,Cellular tumor antigen p53,F134L,A,2XWR,Urea,Fluorescence,-,Single,0,6.02,7.24,PMID: 10713666
+5077,Cellular tumor antigen p53,F270C,A,2XWR,Urea,Fluorescence,-,Single,0.01,6.5,5.03,PMID: 10713666
+5078,Cellular tumor antigen p53,P151S,A,2XWR,Urea,Fluorescence,-,Single,0.05,3.29,2.96,PMID: 10713666
+5079,Cellular tumor antigen p53,I195T,A,2XWR,Urea,Fluorescence,-,Single,0.05,9.43,8.83,PMID: 10713666
+5080,Cellular tumor antigen p53,Y220C,A,2XWR,Urea,Fluorescence,-,Single,0.09,4.03,3.72,PMID: 10713666
+5081,Cellular tumor antigen p53,V157F,A,2XWR,Urea,Fluorescence,-,Single,0.01,6.94,7.55,PMID: 10713666
+5082,Cellular tumor antigen p53,R175H,A,2XWR,Urea,Fluorescence,-,Single,0.01,5.26,5.14,PMID: 10713666
+5083,Cellular tumor antigen p53,V143A,A,2XWR,Urea,Fluorescence,-,Single,0,6.25,5.72,PMID: 10713666
